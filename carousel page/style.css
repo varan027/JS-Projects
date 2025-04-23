@@ -9,14 +9,13 @@ img{
   border-radius: 50%;
 }
 button{
-  margin: 16px;
   padding: 5px 10px;
   border: none;
   border-radius: 5px;
   background-color: rgba(0, 0, 0, 0.485);
   color: white;
   font-size: 20px;
-  margin: 30px 50px 0px 50px;
+  margin: 20px 20px 0px 20px;
 }
 section{
   background-color: rgba(109, 109, 109, 0.321);
